@@ -54,7 +54,7 @@ ci = [
     "ruff>=0.2.2",
     "mypy>=1.8.0",
     "types-setuptools>=57.0.0",
-    "types-paramiko>=3.4.0",
+    "types-paramiko>=4.0.0.20250822",
 ]
 test = [
     "pytest>=6.2.0",
