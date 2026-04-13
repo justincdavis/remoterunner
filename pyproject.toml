@@ -40,7 +40,7 @@ classifiers = [
 ]
 requires-python=">=3.8, <=3.13"
 dependencies = [
-    "paramiko>=3.4.0",
+    "paramiko>=4.0.0",
     "scp>=0.15.0",
     "stdlib-list>=0.10.0",
 ]
